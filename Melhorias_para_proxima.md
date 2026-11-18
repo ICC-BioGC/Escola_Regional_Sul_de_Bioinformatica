@@ -3,6 +3,8 @@
 Documento de sugestões para a organização da Escola Paranaense de Bioinformática (EPB), com base na experiência da edição 2026.
 
 
+ - eSTABELECER POLITICA DE DEVOLUÇÃO DE iNSCRIÇÃO
+
 ## 1. Convites e Comunicação com Palestrantes
 
 - Centralizar os convites por e-mail para palestrantes, incluindo tema, dia, horário, público-alvo e tempo de fala.
